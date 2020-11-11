@@ -2,6 +2,7 @@ package by.epam.linear_program.main;
 
 import java.util.Arrays;
 
+// Сортировка слиянием - merge sort.
 public class Main108 {
     public static void main(String[] args) {
         int[] array1 = {7, 0, 3, 5, 6, 9, 8, 4, 2, 10, 1};
